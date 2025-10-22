@@ -1,0 +1,12 @@
+{
+  "name": "Repository Tempalte Workflow",
+  "description": "Workflow Template",
+  "iconName": "example-icon",
+  "categories": [
+    "Automation",
+    "Deployment"
+  ],
+  "filePatterns": [
+    ".*\\.yml$"
+  ]
+}
